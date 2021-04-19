@@ -1,5 +1,3 @@
-<!--[![Web Performance Consultant Marc Radziwill infront of a wall](https://marcradziwill.com/assets/images/uebermich/Ueber-mich-Marc-Radziwill-in-Kempten-mit-Hut-vor-der-Commerzbank-und-lacht/74721305-1600.jpeg)](https://marcradziwill.com)
-
 Hi everybody, my name is Marc (he/him). I am a web performance consultant, a web developer, a frontend architect, and a trainer for developers. My development services include the development of websites, APIs, software as a service (SAAS), apps, enterprise applications and much more.
 
 What I do:
